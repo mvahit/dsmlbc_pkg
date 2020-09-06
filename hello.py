@@ -1,5 +1,7 @@
+print("merhaba!")
+
 def topla():
-    print("hello")
+    print("topladim")
 
-
-topla()
+def cikar():
+    print("cikardim")
