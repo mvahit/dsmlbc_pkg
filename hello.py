@@ -8,4 +8,4 @@ def cikar():
 
 
 def carpma():
-    print("carptım")
+    print("carptaım")
