@@ -5,3 +5,7 @@ def topla():
 
 def cikar():
     print("cikardim")
+
+
+def carpma():
+    print("carptım")
