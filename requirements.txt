@@ -1,6 +1,7 @@
 # Needed packages/versions
+
+pandas
 matplotlib
 numpy==1.15.4
 pycodestyle>=2.4.0
-pandas
-pandasprofiling
+lightgbm==2.1.1
